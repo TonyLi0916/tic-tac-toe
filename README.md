@@ -1,5 +1,5 @@
-# tic-tac-toe
-tic tac toe game
+# Tic Tac Toe
+Simple tic tac toe game
 
 # links
 [Live Website](https://tonyli0916.github.io/etch-a-sketch/)
