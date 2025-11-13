@@ -1,7 +1,7 @@
 # tic-tac-toe
 tic tac toe game
 
-#links
+# links
 [Live Website](https://tonyli0916.github.io/etch-a-sketch/)
 
 #screenshots
